@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "country": "India",
+      "state": "UP",
+      "city": "Lucknow"
+    },
+    {
+      "id": 2,
+      "country": "USA",
+      "state": "New York",
+      "city": "Albany"
+    },
+    {
+      "id": 3,
+      "country": "UK",
+      "state": "London",
+      "city": "York"
+    },
+    {
+      "id": 4,
+      "country": "Italy",
+      "state": "Rome",
+      "city": "Venice"
+    },
+    {
+      "id": 5,
+      "country": "India",
+      "state": "MP",
+      "city": "Bhopal"
+    }
+  ]
